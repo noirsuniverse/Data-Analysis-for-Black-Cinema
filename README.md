@@ -13,9 +13,25 @@
 
 ![Data-Analysis-for-Black-Cinema Screenshot](ss1.png)
 
-## 📉 Task 2 - Other Film
-**🎬Other Film 1970s-2020s**  
+## 💹 Task 2 - Other Film
+**🎞️Other Film 1970s-2020s**  
 - **Multiple Genres** to mirror the table for Black Film
 - **Critics Reviews** to get a view at the difference between black film reviews and other film reviews. 
 
 ![Data-Analysis-for-Black-Cinema Screenshot](ss2.png)
+
+
+## 📁 Task 3 - Other Film & Black Cinema 
+**📹Combine the two to put into really see the difference in one table**  
+
+![Data-Analysis-for-Black-Cinema Screenshot](ss3.png)
+
+
+
+## 🗂️ Task 4 - Averages
+**📺Both Black & Other Film 1970s-2020s**  
+- **Box Office** to get a look at the amount of people who showed up for black cinema compared to wider cinema
+- **Critics Reviews** to get an average in the percentage given black cinema compared to wider cinema.
+- **Genre** to know what genres do well in black cinema compared to genres that do well in wider cinema.
+
+![Data-Analysis-for-Black-Cinema Screenshot](ss5.png)
